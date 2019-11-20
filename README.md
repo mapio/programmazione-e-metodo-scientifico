@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mapio/programmazione-e-metodo-scientifico/master?filepath=index.ipynb)
 
-Questo *repository* contiene la presentazione dell'omonimo intervento tenutosi nel contesto della serie di seminari: "Il Metodo Scientifico Nelle Varie Discipline: Peculiarità, Analogie, Confronti" organizzato dal [Laboratorio ALaDDIn](https://aladdin.unimi.it/formazione.html).
+Questo *repository* contiene la presentazione dell'omonimo intervento tenutosi nel contesto della serie di seminari: "Il Metodo Scientifico Nelle Varie Discipline: Peculiarità, Analogie, Confronti" organizzato dal [Laboratorio ALaDDIn](https://aladdin.unimi.it/).
 
 Per visualizzare la presentazione premete il bottone "launch binder".
 
