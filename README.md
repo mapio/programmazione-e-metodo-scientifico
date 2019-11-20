@@ -6,4 +6,4 @@ Questo *repository* contiene la presentazione dell'omonimo intervento tenutosi n
 
 Per visualizzare la presentazione premete il bottone "launch binder".
 
-<img src="https://beacon.ticksel.com/beam?account_id=1387073&referrer=&tags=" style="border:0;" width="0" height="0" alt="" />
+<img src="https://beacon.ticksel.com/beam?account_id=1387073&referrer=https://github.com/mapio/programmazione-e-metodo-scientifico&tags=" style="border:0;" width="0" height="0" alt="" />
