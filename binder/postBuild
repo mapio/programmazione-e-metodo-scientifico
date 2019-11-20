@@ -1,0 +1,2 @@
+jupyter trust index.ipynb
+rm -rf conda-bld
